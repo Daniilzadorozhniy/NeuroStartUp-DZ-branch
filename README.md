@@ -22,3 +22,7 @@
 
 ## **Лицензия**
 *№ 13666* 
+# КОД
+```
+<script src="https://localhost/neuro.sdk.min.js"></script>
+```
